@@ -22,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=renxtech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=renxtech&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=renxtech&icon=2&color=8)](https://angga.page.gd)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
